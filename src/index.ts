@@ -6,3 +6,6 @@ export type { Pow } from './Arithmetic/Exponentiation'
 export type { Negate, Abs, IsPositive, IsNegative, Compare, IsOdd, IsEven, IsInt, IsNotInt } from './Arithmetic/Number'
 export type { Gt, Lt, Eq, GtOrEq, LtOrEq, Max, Min } from './Arithmetic/Number'
 export type { Bit, And, Or, Xor, Not } from './Arithmetic/Bit'
+
+import * as Unsafe from "./unsafe"
+export {Unsafe};

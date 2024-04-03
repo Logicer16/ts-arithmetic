@@ -1,6 +1,6 @@
 {
   "name": "ts-arithmetic",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Type Level Arithmetic",
   "keywords": [
     "type arithmetic",
@@ -32,6 +32,7 @@
     "tsc": "tsc"
   },
   "devDependencies": {
+    "@microsoft/api-extractor": "^7.43.0",
     "typescript": "^4.8.2"
   }
 }
