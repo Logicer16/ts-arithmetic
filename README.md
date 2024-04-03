@@ -15,9 +15,9 @@
     <a href="#type-utility-reference"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/arielhs/ts-arithmetic/issues">Report Bug</a>
+    <a href="https://github.com/Logicer16/ts-arithmetic/issues">Report Bug</a>
     ·
-    <a href="https://github.com/arielhs/ts-arithmetic/issues">Request Feature</a>
+    <a href="https://github.com/Logicer16/ts-arithmetic/issues">Request Feature</a>
   </p>
 </div>
 
@@ -621,7 +621,7 @@ type NotOne = Not<1> // 0
 type UnionExample = Not<0 | 1> // 0 | 1
 ```
 
-See the [open issues](https://github.com/arielhs/ts-arithmetic/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Logicer16/ts-arithmetic/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -640,23 +640,23 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/arielhs/ts-arithmetic](https://github.com/arielhs/ts-arithmetic)
+Project Link: [https://github.com/Logicer16/ts-arithmetic](https://github.com/Logicer16/ts-arithmetic)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/arielhs/ts-arithmetic.svg?style=for-the-badge
-[contributors-url]: https://github.com/arielhs/ts-arithmetic/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/arielhs/ts-arithmetic.svg?style=for-the-badge
-[forks-url]: https://github.com/arielhs/ts-arithmetic/network/members
-[stars-shield]: https://img.shields.io/github/stars/arielhs/ts-arithmetic.svg?style=for-the-badge
-[stars-url]: https://github.com/arielhs/ts-arithmetic/stargazers
-[issues-shield]: https://img.shields.io/github/issues/arielhs/ts-arithmetic.svg?style=for-the-badge
-[issues-url]: https://github.com/arielhs/ts-arithmetic/issues
-[license-shield]: https://img.shields.io/github/license/arielhs/ts-arithmetic.svg?style=for-the-badge
-[license-url]: https://github.com/arielhs/ts-arithmetic/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Logicer16/ts-arithmetic.svg?style=for-the-badge
+[contributors-url]: https://github.com/Logicer16/ts-arithmetic/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Logicer16/ts-arithmetic.svg?style=for-the-badge
+[forks-url]: https://github.com/Logicer16/ts-arithmetic/network/members
+[stars-shield]: https://img.shields.io/github/stars/Logicer16/ts-arithmetic.svg?style=for-the-badge
+[stars-url]: https://github.com/Logicer16/ts-arithmetic/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Logicer16/ts-arithmetic.svg?style=for-the-badge
+[issues-url]: https://github.com/Logicer16/ts-arithmetic/issues
+[license-shield]: https://img.shields.io/github/license/Logicer16/ts-arithmetic.svg?style=for-the-badge
+[license-url]: https://github.com/Logicer16/ts-arithmetic/blob/main/LICENSE.txt
 [product-screenshot]: /ts-arithmetic-screenshot.png
 [TypeScript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
 [typescript-url]: https://www.typescriptlang.org

@@ -1,6 +1,6 @@
 {
   "name": "@logicer/ts-arithmetic",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Type Level Arithmetic",
   "keywords": [
     "type arithmetic",
@@ -12,13 +12,13 @@
     "minus",
     "product"
   ],
-  "homepage": "https://github.com/logicer/ts-arithmetic",
+  "homepage": "https://github.com/Logicer16/ts-arithmetic",
   "bugs": {
-    "url": "https://github.com/logicer/ts-arithmetic/issues"
+    "url": "https://github.com/Logicer16/ts-arithmetic/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/logicer/ts-arithmetic.git"
+    "url": "git+https://github.com/Logicer16/ts-arithmetic.git"
   },
   "files": [
     "dist"
